@@ -1,0 +1,2 @@
+[11-Apr-2018 07:05:13 UTC] PHP Fatal error:  Call to a member function uri() on null in /home/techvil1/public_html/vrent17/storage/framework/views/a33abe30b003ee3109fddcc786f8f011f05bcc39.php on line 1
+[12-Apr-2018 10:59:04 UTC] PHP Fatal error:  Call to a member function uri() on null in /home/techvil1/public_html/vrent17/storage/framework/views/a33abe30b003ee3109fddcc786f8f011f05bcc39.php on line 1
